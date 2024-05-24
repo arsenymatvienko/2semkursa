@@ -1,0 +1,3 @@
+﻿  kursa.cpp
+C:\Users\User\Desktop\Сеня\kursa\kursa\kursa.cpp(9,9): warning C4101: choice: неиспользованная локальная переменная
+  kursa.vcxproj -> C:\Users\User\Desktop\Сеня\kursa\x64\Debug\kursa.exe
